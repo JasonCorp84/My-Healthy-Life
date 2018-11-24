@@ -74,7 +74,7 @@ class RecipeReviewCard extends React.Component {
         />
         <CardMedia
           className={classes.media}
-          image="/static/images/cards/paella.jpg"
+          image="https://therecipecritic.com/wp-content/uploads/2016/08/lemongarlicparmesamshrimppasta4-650x975.jpg"
           title="Paella dish"
         />
         <CardContent>
